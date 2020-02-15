@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70718798123-16ts210ava15ed0l214hk7gdbofn8kjl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70718798123-16ts210ava15ed0l214hk7gdbofn8kjl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhubil2o4rKEp2-7_IqixR_0xRTiYl2rU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70718798123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hsprk.firstChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>solfirstfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>solfirstfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70718798123:ios:363dddc7a7d003c8f16d6e</string>
+	<key>DATABASE_URL</key>
+	<string>https://solfirstfirebase.firebaseio.com</string>
+</dict>
+</plist>
